@@ -4,7 +4,7 @@ body{
 	background: #353535;
 	background-image: url("bgimage.jpg");
 	background-repeat: no-repeat;
-  	background-size: auto;
+  	background-size: cover;
 }
 #countdown{
 	width: 465px;
