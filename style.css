@@ -3,6 +3,8 @@ body{
 	color: #eee;
 	background: #353535;
 	background-image: url("bgimage.jpg");
+	background-repeat: no-repeat;
+  	background-size: auto;
 }
 #countdown{
 	width: 465px;
